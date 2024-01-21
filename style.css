@@ -1,0 +1,133 @@
+/* #counter{
+    display: block;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 10em;
+}
+
+.btncontainer{
+    text-align: center;
+}
+
+.buttons{
+    background-color: rgb(124, 124, 247);
+    padding: 10px;
+    color: aliceblue;
+    font-size: 1.5em;
+    border-radius: 10px;
+    cursor: pointer;
+    transition:background-color 0.1s;
+}
+
+.buttons:hover{
+    background-color:rgb(84, 84, 252);
+}
+
+
+#random{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    cursor: pointer;
+    background-color: rgb(247, 164, 164);
+    font-size: 1.5em;
+
+}
+
+#label{
+    text-align: center;
+    font: size 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(0, 0%, 95%);
+}
+
+h1{
+    color: hsl(240, 88%, 68%);
+}
+
+form{
+    text-align: center;
+    background-color: bisque;
+    max-width: 350px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px hsl(0, 3%, 52%);
+}
+
+#textbox{
+    width: 50%;
+    text-align: center;
+    border: 2px solid hsl(0, 0%, 38%);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 2em;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+button{
+    margin-top: 10px;
+    background-color: rgb(245, 43, 43);
+    font-size: 1.5em;
+    padding: 10px 15px ;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:hsl(0, 97%, 49%); ;
+}
+
+#result{
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+ */
+
+ #container{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+ }
+
+ button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(240, 91%, 71%);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+ }
+
+ button:hover{
+    background-color:hsl(240, 100%, 67%); ;
+ }
+ button:active{
+    background-color:hsl(240, 100%, 80%); ;
+ }
+
+ input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+ }
+#diceresult{
+    margin: 25px;
+
+}
+#diceimage img{
+    width: 150px;
+    margin: 5px;
+}
